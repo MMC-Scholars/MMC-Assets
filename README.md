@@ -30,6 +30,7 @@ In order to provide uniformity across all assets, each asset should be named in 
 - Files names are not redundant. `explosionSound.wav` can just be `explosion.wav`.
 - If a file already exists with that name, append your first (and if needed, last) name to the end of the file name. For example, if `light.blend` already exists, you can instead add `lightJohn.blend` to the repository.
 - Since there are many types of textures, using common naming techniques will help differentiate between texture types. _These are the only exceptions to the lower camel case naming rule_:
+
   Type | New Name
   --- | ---
   Ambient Occlusion | `wood_ao.tga`
