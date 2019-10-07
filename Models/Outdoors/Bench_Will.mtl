@@ -8,13 +8,13 @@ Kd 0.8 0.8 0.8
 Ks 0.8 0.8 0.8
 d 1
 illum 2
-map_Kd WoodPlanksClean_D.jpg
+map_Kd BlackSmoothShiny_D.png
 
-newmtl None_BlackSmoothShiny_D.png
+newmtl None_WoodPlanksClean_D.jpg
 Ns 0
 Ka 0.000000 0.000000 0.000000
 Kd 0.8 0.8 0.8
 Ks 0.8 0.8 0.8
 d 1
 illum 2
-map_Kd BlackSmoothShiny_D.png
+map_Kd WoodPlanksClean_D.jpg
