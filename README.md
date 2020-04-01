@@ -30,7 +30,7 @@ In order to provide uniformity across all assets, each asset should be named in 
 
 Since there are many types of textures, using common naming techniques will help differentiate between texture types. _These are the only exceptions to the lower camel case naming rule_:
 
-  Type | New Name
+  Material | File Name
   --- | ---
   Ambient Occlusion | `wood_ao.tga`
   Color/Diffuse | `wood.tga`
@@ -39,3 +39,4 @@ Since there are many types of textures, using common naming techniques will help
   Normal/Bump | `wood_n.tga`
   Roughness | `wood_r.tga`
   Specularity/Reflection | `wood_s.tga`
+  Texture | `wood_t.tga`
