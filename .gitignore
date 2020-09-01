@@ -1,1 +1,24 @@
+# Preventing accidental commits of the following incorrect files
+# As of 9/1/2020
+
+# Unreal specifics
+*.uasset
+
+# generated files
 *.DS_Store
+*.ini
+
+# archived files
+*.zip
+*.rar
+*.7z
+
+# materials
+*.jpg
+*.jpeg
+
+# models
+*.blend1
+
+# sounds
+*.mp3
