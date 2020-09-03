@@ -69,7 +69,7 @@ The material-specific ruleset is as follows:
 
 The model-specifc ruleset is as follows:
 
-- When making Blender models, try to separate objects that have different textures within the model. For example, a tree should have an object for the bark and one for the leaves. The reason for this is to be able to
+- When making Blender models, try to separate objects that have different textures within the model. For example, a tree should have an object for the bark and one for the leaves. The reason for this is to be able to easily apply different textures onto the same model.
 - All Blender models share the same origin within the editor, which is the very center of the space. The model also should not float or be below the ground in Blender, so when it is exported to Unreal the model has the same location as other models.
 - All Blender models are made with attention to real world scale, being exported at scale 100.0, Z-axis up, and X-axis forward. This is to prevent fidgeting with the scale of the model in Unreal, which should always be 1:1:1 when dragged into the gameworld.
 - Models are placed in relevant folders similar to materials and sounds, but have its own folder with the same name as the model. 
